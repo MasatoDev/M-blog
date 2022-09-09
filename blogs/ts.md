@@ -1,3 +1,10 @@
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 ![LGTMcat](https://user-images.githubusercontent.com/46220963/189363452-b95d2fd8-fe2b-475d-b5c6-82026181d589.jpeg)
 
 
