@@ -1,3 +1,27 @@
+```js
+const a = 'a'
+
+const func = () => {
+  console.log(a)
+}
+```
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+
+```ruby
+def (hello)
+  print(hello)
+end
+```
+
+
 # Prevent unnecessary network requests with the HTTP Cache
 
 https://web.dev/http-cache/#invalidating_and_updating_cached_responses
