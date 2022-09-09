@@ -16,6 +16,17 @@
 | ---- | ---- |
 |  TD  |  セル内で<br>改行  |
 
+
+
+
+
+
+
+
+
+
+
+
 https://web.dev/http-cache/#invalidating_and_updating_cached_responses
 
 ※related to revving: https://developer.mozilla.org/ja/docs/Web/HTTP/Caching#revved_resources
