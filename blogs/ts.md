@@ -1,3 +1,6 @@
+![LGTMcat](https://user-images.githubusercontent.com/46220963/189363452-b95d2fd8-fe2b-475d-b5c6-82026181d589.jpeg)
+
+
 # Prevent unnecessary network requests with the HTTP Cache
 
 https://web.dev/http-cache/#invalidating_and_updating_cached_responses
