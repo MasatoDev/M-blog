@@ -1,27 +1,3 @@
-```js
-const a = 'a'
-
-const func = () => {
-  console.log(a)
-}
-```
-
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-
-```ruby
-def (hello)
-  print(hello)
-end
-```
-
-
 # Prevent unnecessary network requests with the HTTP Cache
 
 https://web.dev/http-cache/#invalidating_and_updating_cached_responses
@@ -184,11 +160,3 @@ Last-Modified ヘッダを消すことで TTL 未指定の動きも排除でき�
   - 複数指定可能、vary: Accept_Encoding, User-Agent
 - content-type
   - 圧縮対象の指定の方法はミドルウェアによっても異なり、複数指定方法がありますが、個別の MIME タイプを指定している場合圧縮対象から漏れることがあるので注意
-
-
-
-
-
-## cache-status
-
-https://postd.cc/status-targeted-caching-headers/
